@@ -1,2 +1,2 @@
-# SAT.bqn
+# picosat.bqn
 BQN wrapper for picosat
